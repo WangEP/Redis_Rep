@@ -33,4 +33,13 @@ cd ./server
 ## Run
 
 We build the Redis cluster and run experiment via bash script in
- ```./utils/utils```
+ ```./tools/utils```.
+
+We have five experiments.
+```
+./tools/utils/baseline.sh -> Figure 4/5
+./tools/utils/new_exp1.sh -> Figure 11/14
+./tools/utils/new_exp2.sh -> Figure 13
+./tools/utils/new_exp3.sh -> Figure 12
+./tools/utils/new_exp4.sh -> Figure 15/16
+```
