@@ -1,0 +1,3 @@
+#define REDIS_GIT_SHA1 "9f4d3574"
+#define REDIS_GIT_DIRTY "9230"
+#define REDIS_BUILD_ID "WangEP-Laptop-1643599356"
